@@ -2,7 +2,9 @@
 
 
 
-This repository is Sentiment Analysis of tweets in python using Tweepy library
+This repository gives Sentiment Analysis of tweets in python using Tweepy library.
+
+The user must enter the keyword related to which the tweets will be searched and the code generates the sentiment analysis of the available tweets.
 
 The sentiment analysis gives the graph that plots positive, neutral and negative amount of tweets for the given keyword.
 
